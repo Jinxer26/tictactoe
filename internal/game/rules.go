@@ -14,8 +14,8 @@ func (b* Board) Winner() Cell{
 
 	for _,line := range lines{
 		x, y, z := line[0],line[1],line[2]
-		v := b.Cells[x[0],x[1]]
-		if v != Empty && v == b.Cells[y[0],y[1]] && b.Cells[z[0],z[1]]{
+		v := b.Cells[x[0]][x[1]]
+		if v != Empty && v == b.Cells[y[0]][y[1]] && v == b.Cells[z[0]][z[1]]{
 			return v
 		}
 	}

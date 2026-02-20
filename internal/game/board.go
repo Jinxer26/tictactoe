@@ -19,7 +19,13 @@ type Board struct{
 }
 
 func NewBoard() *Board{
-	return &Board{}
+	  b := &Board{}
+    for i := 0; i < 3; i++ {
+        for j := 0; j < 3; j++ {
+            b.Cells[i][j] = Empty
+        }
+    }
+    return b
 }
 
 func (b *Board) Place(row int, col int, c Cell ) error {
@@ -33,7 +39,8 @@ func (b *Board) Place(row int, col int, c Cell ) error {
 	}
 
 	b.Cells[row][col] = c
-
+  
+	return nil
 }
 
 

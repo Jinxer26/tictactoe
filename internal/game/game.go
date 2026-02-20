@@ -41,9 +41,8 @@ func (g *Game) Move(row, col int) error {
 func opposite(c Cell) Cell{
 	if c == X {
 		return O
-	} else if c == O {
-		return X
-	}
+	} 
+	return X
 }
 
 
