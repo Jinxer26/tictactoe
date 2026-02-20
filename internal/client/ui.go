@@ -8,7 +8,7 @@ import (
 
 func Render(g *game.Game) {
 
-	//fmt.Print("\033[2J\033[H") // clear screen
+	fmt.Print("\033[2J\033[H") // clear screen
 
 	fmt.Println("   0   1   2")
 	for i := 0; i < 3; i++ {
