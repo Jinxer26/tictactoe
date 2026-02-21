@@ -2,6 +2,7 @@ package game
 
 import (
 	"errors"
+	"github.com/Jinxer26/tictactoe/internal/logger"
 )
 
 // File to handle the game board
@@ -31,10 +32,12 @@ func NewBoard() *Board{
 func (b *Board) Place(row int, col int, c Cell ) error {
 	
 	if row < 0 || row > 2 || col < 0 || col > 2 {
-		return errors.New("Out of Bounds, Specify valid column and row")
+		logger.Log.Error("Out of Bounds", "row",row,"col",col)
+		return errors.New("Out of Bounds")
 	}
 
 	if b.Cells[row][col] != Empty {
+		logger.Log.Error("Cell Occupied", "value", string(b.Cells[row][col]))
 		return errors.New("Cell occupied")
 	}
 

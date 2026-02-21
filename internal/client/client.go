@@ -14,12 +14,10 @@ func RunLocalGame() {
 		
 		r, c, err := ReadMove()
 		if err != nil {
-			fmt.Println("Invalid Input")
 			continue
 		}
 
 		if err := g.Move(r,c); err != nil {
-			fmt.Println("Error: ", err)
 			continue
 		}
 

@@ -1,0 +1,59 @@
+{"time":"2026-02-21T09:00:11.863281068+05:30","level":"INFO","msg":"Setting up new game"}
+{"time":"2026-02-21T09:00:15.700186798+05:30","level":"INFO","msg":"Move Played","player":88,"row":0,"col":0}
+{"time":"2026-02-21T09:00:17.717835426+05:30","level":"INFO","msg":"Move Played","player":79,"row":0,"col":1}
+{"time":"2026-02-21T09:00:20.516919589+05:30","level":"INFO","msg":"Move Played","player":88,"row":1,"col":1}
+{"time":"2026-02-21T09:00:23.103155786+05:30","level":"INFO","msg":"Move Played","player":79,"row":1,"col":2}
+{"time":"2026-02-21T09:00:24.792680242+05:30","level":"INFO","msg":"Move Played","player":88,"row":2,"col":2}
+{"time":"2026-02-21T09:01:00.903040106+05:30","level":"INFO","msg":"Setting up new game"}
+{"time":"2026-02-21T09:01:03.132782213+05:30","level":"INFO","msg":"Move Played","player":88,"row":0,"col":1}
+{"time":"2026-02-21T09:01:05.143125739+05:30","level":"INFO","msg":"Move Played","player":79,"row":1,"col":1}
+{"time":"2026-02-21T09:01:14.809760638+05:30","level":"INFO","msg":"Move Played","player":88,"row":2,"col":1}
+{"time":"2026-02-21T09:01:18.410745768+05:30","level":"INFO","msg":"Move Played","player":79,"row":1,"col":0}
+{"time":"2026-02-21T09:01:29.172224265+05:30","level":"INFO","msg":"Move Played","player":88,"row":2,"col":2}
+{"time":"2026-02-21T09:01:32.191025506+05:30","level":"INFO","msg":"Move Played","player":79,"row":1,"col":2}
+{"time":"2026-02-21T09:03:07.913142574+05:30","level":"INFO","msg":"Setting up new game"}
+{"time":"2026-02-21T09:03:09.91692781+05:30","level":"INFO","msg":"Move Played","player":"X","row":0,"col":0}
+{"time":"2026-02-21T09:03:11.881598039+05:30","level":"INFO","msg":"Move Played","player":"O","row":1,"col":1}
+{"time":"2026-02-21T09:03:14.524913725+05:30","level":"INFO","msg":"Move Played","player":"X","row":0,"col":1}
+{"time":"2026-02-21T09:03:16.13852208+05:30","level":"INFO","msg":"Move Played","player":"O","row":2,"col":2}
+{"time":"2026-02-21T09:03:18.284925495+05:30","level":"INFO","msg":"Move Played","player":"X","row":0,"col":2}
+{"time":"2026-02-21T09:05:44.452164068+05:30","level":"INFO","msg":"Setting up new game"}
+{"time":"2026-02-21T09:05:46.435928518+05:30","level":"INFO","msg":"Move Played","player":"X","row":0,"col":0}
+{"time":"2026-02-21T09:05:47.451712622+05:30","level":"INFO","msg":"Move Played","player":"O","row":1,"col":2}
+{"time":"2026-02-21T09:05:54.858365097+05:30","level":"INFO","msg":"Move Played","player":"X","row":1,"col":1}
+{"time":"2026-02-21T09:05:57.576971191+05:30","level":"INFO","msg":"Move Played","player":"O","row":1,"col":0}
+{"time":"2026-02-21T09:05:59.27180469+05:30","level":"INFO","msg":"Move Played","player":"X","row":2,"col":2}
+{"time":"2026-02-21T09:05:59.271890107+05:30","level":"INFO","msg":"Game Over, Game Won by ","player":"X"}
+{"time":"2026-02-21T09:17:19.75709312+05:30","level":"INFO","msg":"Setting up new game"}
+{"time":"2026-02-21T09:17:22.210218813+05:30","level":"INFO","msg":"Move Played","player":"X","row":0,"col":0}
+{"time":"2026-02-21T09:17:25.030603261+05:30","level":"INFO","msg":"Move Played","player":"O","row":1,"col":1}
+{"time":"2026-02-21T09:17:27.724327678+05:30","level":"INFO","msg":"Move Played","player":"X","row":1,"col":2}
+{"time":"2026-02-21T09:17:34.106064848+05:30","level":"INFO","msg":"Move Played","player":"O","row":0,"col":2}
+{"time":"2026-02-21T09:17:37.263754822+05:30","level":"INFO","msg":"Move Played","player":"X","row":2,"col":0}
+{"time":"2026-02-21T09:17:41.193422523+05:30","level":"INFO","msg":"Move Played","player":"O","row":1,"col":0}
+{"time":"2026-02-21T09:17:50.482587507+05:30","level":"INFO","msg":"Move Played","player":"X","row":0,"col":1}
+{"time":"2026-02-21T09:17:58.618081652+05:30","level":"INFO","msg":"Move Played","player":"O","row":2,"col":1}
+{"time":"2026-02-21T09:18:00.820090665+05:30","level":"INFO","msg":"Move Played","player":"X","row":2,"col":2}
+{"time":"2026-02-21T09:18:00.820166513+05:30","level":"INFO","msg":"Game Draw, nobody wins"}
+{"time":"2026-02-21T09:23:36.528225408+05:30","level":"INFO","msg":"Setting up new game"}
+{"time":"2026-02-21T09:23:39.750621991+05:30","level":"ERROR","msg":"Out of Bounds, Specify valid column and row"}
+{"time":"2026-02-21T09:23:41.525956043+05:30","level":"ERROR","msg":"Out of Bounds, Specify valid column and row"}
+{"time":"2026-02-21T09:23:43.015631017+05:30","level":"INFO","msg":"Move Played","player":"X","row":0,"col":0}
+{"time":"2026-02-21T09:23:45.26248249+05:30","level":"INFO","msg":"Move Played","player":"O","row":0,"col":1}
+{"time":"2026-02-21T09:23:47.579544952+05:30","level":"INFO","msg":"Move Played","player":"X","row":2,"col":0}
+{"time":"2026-02-21T09:23:49.622047511+05:30","level":"INFO","msg":"Move Played","player":"O","row":1,"col":0}
+{"time":"2026-02-21T09:23:51.232946319+05:30","level":"INFO","msg":"Move Played","player":"X","row":1,"col":1}
+{"time":"2026-02-21T09:23:53.787579581+05:30","level":"INFO","msg":"Move Played","player":"O","row":0,"col":2}
+{"time":"2026-02-21T09:23:58.187241888+05:30","level":"INFO","msg":"Move Played","player":"X","row":2,"col":2}
+{"time":"2026-02-21T09:23:58.187348327+05:30","level":"INFO","msg":"Game Over ! ","winner":"X"}
+{"time":"2026-02-21T09:28:24.714426956+05:30","level":"INFO","msg":"Setting up new game"}
+{"time":"2026-02-21T09:28:27.358355503+05:30","level":"ERROR","msg":"Out of Bounds","row":0,"col":5}
+{"time":"2026-02-21T09:28:29.20613605+05:30","level":"ERROR","msg":"Out of Bounds","row":5,"col":6}
+{"time":"2026-02-21T09:28:31.991851916+05:30","level":"INFO","msg":"Move Played","player":"X","row":0,"col":1}
+{"time":"2026-02-21T09:28:34.375130604+05:30","level":"INFO","msg":"Move Played","player":"O","row":0,"col":0}
+{"time":"2026-02-21T09:28:35.839703051+05:30","level":"INFO","msg":"Move Played","player":"X","row":0,"col":2}
+{"time":"2026-02-21T09:28:37.552857753+05:30","level":"INFO","msg":"Move Played","player":"O","row":1,"col":0}
+{"time":"2026-02-21T09:28:38.788076608+05:30","level":"INFO","msg":"Move Played","player":"X","row":1,"col":1}
+{"time":"2026-02-21T09:28:41.165060492+05:30","level":"INFO","msg":"Move Played","player":"O","row":2,"col":1}
+{"time":"2026-02-21T09:28:46.734088957+05:30","level":"INFO","msg":"Move Played","player":"X","row":2,"col":0}
+{"time":"2026-02-21T09:28:46.734136101+05:30","level":"INFO","msg":"Game Over ! ","winner":"X"}

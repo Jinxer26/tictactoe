@@ -23,3 +23,19 @@ func (b* Board) Winner() Cell{
 	return Empty
 
 }
+
+func (b *Board) Draw() bool {
+	if b.Winner() != Empty {
+		return false
+	}
+
+	for i := 0; i < 3; i++ {
+		for j := 0; j < 3; j++ {
+			if b.Cells[i][j] == Empty {
+				return false
+			}
+		}
+	}
+
+	return true
+}
